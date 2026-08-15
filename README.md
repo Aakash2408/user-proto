@@ -12,3 +12,4 @@ Generated clients are published to the internal registry on each tag. Downstream
 # v2
 # trigger v3
 # trigger v3
+# trigger v4
