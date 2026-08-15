@@ -11,3 +11,4 @@ Shared protobuf definitions for the User domain. This package is consumed by:
 Generated clients are published to the internal registry on each tag. Downstream services pin to a specific version and receive Ripple-generated fix PRs on breaking changes.
 # v2
 # trigger v3
+# trigger v3
